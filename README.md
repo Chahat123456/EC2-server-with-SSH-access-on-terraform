@@ -1,4 +1,3 @@
-# EC2-server-with-SSH-access-on-terraform
 # Terraform AWS EC2 Deployment with NGINX
 
 This project provisions an AWS EC2 instance using Terraform and configures it with an Amazon Linux 2023 AMI, custom security group rules, SSH access, and an NGINX web server.
